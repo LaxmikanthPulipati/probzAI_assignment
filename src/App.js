@@ -6,7 +6,7 @@ import Chart from './components/Chart';
 const App = () => {
   return (
     <div className="app-container">
-      <h1>Timeframe Breakdown, Zooming, and Click Events</h1>
+      <h1 className='heading'>Interactive Charting Application and Click Events</h1>
       <Chart />
     </div>
   );

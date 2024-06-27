@@ -8,6 +8,7 @@
     background-color: #ffffff;
     padding: 2rem;
     border-radius: 10px;
+    background-image: linear-gradient(to right, #7fd6ba, #ddc96d);
 }
 .btn-container{
     display: flex;
@@ -20,7 +21,7 @@
 .btn{
     border-width: 0px;
     border-radius: 5px;
-    background-color: #514d91;
+    background-color: #a52f60;
     height: 30px;
     width: 100px;
     color: #ffffff;
